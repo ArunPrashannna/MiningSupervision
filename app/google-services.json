@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "452203950134",
+    "firebase_url": "https://mining-62f9d-default-rtdb.firebaseio.com",
+    "project_id": "mining-62f9d",
+    "storage_bucket": "mining-62f9d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:452203950134:android:b74894446b5539fc4d2897",
+        "android_client_info": {
+          "package_name": "com.arunprashanna.miningsupervision1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "452203950134-hls33joqa6et0vi2trdv1tl8ccnd4pr2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvaSvl81kmuC8Asey8gwJ8_AcNdibYBYc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "452203950134-hls33joqa6et0vi2trdv1tl8ccnd4pr2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
