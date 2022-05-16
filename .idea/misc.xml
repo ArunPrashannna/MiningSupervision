@@ -3,8 +3,24 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Android App 2022/app/src/main/res/drawable/about_icon.xml" value="0.147" />
+        <entry key="..\:/Android App 2022/app/src/main/res/drawable/google_btn_gradient.xml" value="0.1" />
+        <entry key="..\:/Android App 2022/app/src/main/res/drawable/home_icon.xml" value="0.147" />
         <entry key="..\:/Android App 2022/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1915" />
-        <entry key="..\:/Android App 2022/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Android App 2022/app/src/main/res/drawable/logout_icon.xml" value="0.147" />
+        <entry key="..\:/Android App 2022/app/src/main/res/layout/activity_dash_board.xml" value="0.1" />
+        <entry key="..\:/Android App 2022/app/src/main/res/layout/activity_home.xml" value="0.13768115942028986" />
+        <entry key="..\:/Android App 2022/app/src/main/res/layout/activity_main.xml" value="0.18" />
+        <entry key="..\:/Android App 2022/app/src/main/res/layout/activity_signin.xml" value="0.1" />
+        <entry key="..\:/Android App 2022/app/src/main/res/layout/activity_signup.xml" value="0.22" />
+        <entry key="..\:/Android App 2022/app/src/main/res/layout/activity_switch.xml" value="0.17316409791477788" />
+        <entry key="..\:/Android App 2022/app/src/main/res/layout/app_bar.xml" value="0.25" />
+        <entry key="..\:/Android App 2022/app/src/main/res/layout/fragment_nodes.xml" value="0.15715579710144928" />
+        <entry key="..\:/Android App 2022/app/src/main/res/layout/fragment_workers.xml" value="0.1" />
+        <entry key="..\:/Android App 2022/app/src/main/res/layout/header.xml" value="0.17300724637681159" />
+        <entry key="..\:/Android App 2022/app/src/main/res/layout/list_item.xml" value="0.25" />
+        <entry key="..\:/Android App 2022/app/src/main/res/layout/list_item_node.xml" value="0.16" />
+        <entry key="..\:/Android App 2022/app/src/main/res/menu/main_menu.xml" value="0.2" />
       </map>
     </option>
   </component>
